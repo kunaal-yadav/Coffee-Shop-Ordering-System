@@ -31,7 +31,7 @@ An object-oriented implementation of a coffee shop ordering system, featuring pr
 
 ## 👨‍💻 Author
 
-Kunal Yadav (2024)
+Developed by Kunal Yadav (2024)
 
 ---
 *Always Fresh, Always Delicious* ☕ 
