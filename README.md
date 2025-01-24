@@ -29,17 +29,20 @@ An object-oriented implementation of a coffee shop ordering system, featuring pr
 2. Run `TestClass.java`
 3. Follow the prompts to place your order
 
-## 💡 Example Usage 
+## 💡 Example Usage
 
 Welcome to Coffee Shop! ☕
 What is your name?
 > Sarah
+
 How many items are you going to order?
 > 2
+
 What can I get you?
 (item choices: Mug, Donut, Muffin, GiftCard)>
 > Donut
 > Muffin
+
 SARAH's Order: Number of Items: 2
 Donut : Honey Dip , 240 calories : $1.25
 Muffin : Blueberry Muffin , 300 calories : $1.75
@@ -50,4 +53,4 @@ Total Amount Due: $3.00
 Kunal Yadav (2024)
 
 ---
-*Always Fresh, Always Delicious* ☕
+*Always Fresh, Always Delicious* ☕ 
